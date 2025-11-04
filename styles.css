@@ -174,7 +174,7 @@ img {
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    background: url('assets/backgrounds/front.png') left center/cover no-repeat;
+    background: url('images/front.png') left center/cover no-repeat;
     background-attachment: scroll;
     margin-top: 72px;
     overflow: hidden;
@@ -440,7 +440,7 @@ body[dir="rtl"] .section-title i {
 .about-section {
     position: relative;
     background: linear-gradient(135deg, rgba(59, 130, 246, 0.25), rgba(37, 99, 235, 0.20)), 
-                url('assets/images/TECHNOLOGY_new_v1.jpg') center/cover no-repeat;
+                url('images/TECHNOLOGY_new_v1.jpg') center/cover no-repeat;
     background-attachment: scroll;
     padding: 100px 0;
     overflow: hidden;
@@ -580,7 +580,7 @@ body[dir="rtl"] .section-title i {
 .why-saudi-section {
     position: relative;
     background: linear-gradient(135deg, rgba(16, 185, 129, 0.30), rgba(5, 150, 105, 0.25)), 
-                url('assets/images/SaudiArabia_amo_2011085_lrg.jpg') center/cover no-repeat;
+                url('images/SaudiArabia_amo_2011085_lrg.jpg') center/cover no-repeat;
     background-attachment: scroll;
     padding: 100px 0;
     overflow: hidden;
@@ -665,7 +665,7 @@ body[dir="rtl"] .section-title i {
 /* Services Section */
 .services-section {
     position: relative;
-    background: url('assets/images/SGA_Autodesk_04.jpeg') center/cover no-repeat;
+    background: url('images/SGA_Autodesk_04.jpeg') center/cover no-repeat;
     background-attachment: scroll;
     padding: 100px 0;
     overflow: hidden;
@@ -774,7 +774,7 @@ body[dir="rtl"] .section-title i {
 .differentiators-section {
     position: relative;
     background: linear-gradient(135deg, rgba(37, 99, 235, 0.75), rgba(59, 130, 246, 0.70)), 
-                url('assets/images/peter-ivey-hansen-5xOSA-UgsKQ-unsplash.jpg') center/cover no-repeat;
+                url('images/peter-ivey-hansen-5xOSA-UgsKQ-unsplash.jpg') center/cover no-repeat;
     background-attachment: scroll;
     overflow: hidden;
     animation: subtleZoom 28s ease-in-out infinite alternate;
@@ -862,7 +862,7 @@ body[dir="rtl"] .section-title i {
 /* Vision Section */
 .vision-section {
     position: relative;
-    background: url('assets/images/shubham-dhage-nOkWMjfMhnc-unsplash.jpg') center/cover no-repeat;
+    background: url('images/shubham-dhage-nOkWMjfMhnc-unsplash.jpg') center/cover no-repeat;
     background-attachment: scroll;
     text-align: center;
     padding: 100px 0;
@@ -926,7 +926,7 @@ body[dir="rtl"] .section-title i {
 .cta-section {
     position: relative;
     background: linear-gradient(135deg, rgba(139, 92, 246, 0.88), rgba(124, 58, 237, 0.85)), 
-                url('assets/images/getty-images-64FrvsgI7w8-unsplash.jpg') center/cover no-repeat;
+                url('images/getty-images-64FrvsgI7w8-unsplash.jpg') center/cover no-repeat;
     background-attachment: scroll;
     padding: 100px 0;
     text-align: center;
@@ -969,7 +969,7 @@ body[dir="rtl"] .section-title i {
 .contact-section {
     position: relative;
     background: linear-gradient(135deg, rgba(120, 53, 15, 0.30), rgba(92, 40, 10, 0.25)), 
-                url('assets/images/Image1.png') center/cover no-repeat;
+                url('images/Image1.png') center/cover no-repeat;
     background-attachment: scroll;
     padding: 100px 0;
     overflow: hidden;
